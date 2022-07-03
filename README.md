@@ -7,7 +7,7 @@
 
 <div>
   <h2> :wave: Sobre nós</h2>
-  <img width="450px" align="left" src="https://user-images.githubusercontent.com/106784562/177055038-26b1017b-ead5-4983-855c-b3ea0d8a8e93.png" />
+  <img width="250px" align="left" src="https://user-images.githubusercontent.com/106784562/177055530-6406fb31-beeb-4049-8cf6-8fb34f9465f2.png" />
   <div> 
      <p align="left"><br>Existem mil e um motivos para professores não terem espaço no mercado de trabalho, mas um deles é o preconceito.
 O cenário tem melhorado quando olhamos para números generalizados, mas quando observamos outros grupos sociais marginalizados como indígenas, mulheres negras e a população LGBTQIA+ não-normativos, há ainda muito preconceito na oferta e na conquista de vagas. Por isso, decidimos criar nossa plataforma como uma solução!<br>
