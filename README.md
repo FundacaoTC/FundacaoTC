@@ -69,12 +69,12 @@
 	  <img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	  <h3> :gear: Back-end :gear:</h3>
 	  <img height="65" src="https://icongr.am/devicon/java-original.svg?size=66&color=000000">
-	  <img height="65" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+	  <img height="65" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
 	  <h3> :card_index_dividers: Banco de Dados :card_index_dividers:</h3>
 	  <img height="65" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
     </div>
 </div>
-<div>
-  <h2 align="center"> 👨🏾‍💻 Tecnologias que utilizamos</h2>
+<div align="center">
+  <h2> :e-mail: Contate a Fundação T&C pelo linktree</h2>
     <a href="https://linktr.ee/fundacaoTC"><img src="imagens/Linktree.svg" width="80px"> </a>
 </div>
