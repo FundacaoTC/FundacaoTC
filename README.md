@@ -42,19 +42,19 @@
         <h2 align="center"> :woman_technologist: Nossa equipe </h2>
         <!--Linha 1-->
         <div align="center">
-            <a href="https://www.linkedin.com/in/daniele-ferreira-simões-44342b233/" target="_blank" width="200px"><img src="imagens/Daniele.svg" height="180"></a>
-            <a href="https://www.linkedin.com/in/ellensteixeira/" target="_blank" width="200px"><img src="imagens/Ellen.svg" height="180"></a>
-            <a href="https://www.linkedin.com/in/gabriel-marques-correia-077949232/" target="_blank" width="200px"><img src="imagens/Gabriel.svg" height="180"></a>
-            <a href="https://www.linkedin.com/in/gustavo-amorim-silva/" target="_blank" width="200px"><img src="imagens/Gustavo.svg" height="180"></a>
+            <a href="https://www.linkedin.com/in/daniele-ferreira-simões-44342b233/" width="200px" target="_blank"><img src="imagens/Daniele.svg" height="180"></a>
+            <a href="https://www.linkedin.com/in/ellensteixeira/" width="200px" target="_blank"><img src="imagens/Ellen.svg" height="180"></a>
+            <a href="https://www.linkedin.com/in/gabriel-marques-correia-077949232/" width="200px" target="_blank"><img src="imagens/Gabriel.svg" height="180"></a>
+            <a href="https://www.linkedin.com/in/gustavo-amorim-silva/" width="200px" target="_blank"><img src="imagens/Gustavo.svg" height="180"></a>
         </div>
     </div>
     <br>
     <!--Linha 2-->
     <div>
         <div align="center">
-            <a href="https://www.linkedin.com/in/jonathanfcon/" target="_blank" width="200px"><img src="imagens/Jonathan.svg" height="180"></a>
-            <a href="https://www.linkedin.com/in/leonardo-vinícius25/" target="_blank" width="200px"><img src="imagens/Leonardo.svg" height="180"></a>
-            <a href="https://www.linkedin.com/in/thiago-antenor/" target="_blank" width="200px"><img src="imagens/Thiago.svg" height="180"></a>
+            <a href="https://www.linkedin.com/in/jonathanfcon/" width="200px" target="_blank"><img src="imagens/Jonathan.svg" height="180"></a>
+            <a href="https://www.linkedin.com/in/leonardo-vinícius25/" width="200px" target="_blank"><img src="imagens/Leonardo.svg" height="180"></a>
+            <a href="https://www.linkedin.com/in/thiago-antenor/" width="200px" target="_blank"><img src="imagens/Thiago.svg" height="180"></a>
         </div>
     </div>
 </div>
@@ -76,5 +76,5 @@
 </div>
 <div align="center">
   <h2> :e-mail: Contate a Fundação T&C pelo linktree</h2>
-    <a href="https://linktr.ee/fundacaoTC"><img src="imagens/Linktree.svg" width="80px"> </a>
+    <a href="https://linktr.ee/fundacaoTC" target="_blank"><img src="imagens/Linktree.svg" width="80px"> </a>
 </div>
