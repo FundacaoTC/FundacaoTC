@@ -40,18 +40,19 @@
         <h2> :woman_technologist: :man_technologist: Nossa equipe </h2>
         <!--Linha 1-->
         <div align="center">
-            <a href="https://www.linkedin.com/in/daniele-ferreira-simões-44342b233/" target="_blank"><img src="Daniele.svg"></a>
-            <a href="https://www.linkedin.com/in/ellensteixeira/" target="_blank"><img src="Ellen.svg"></a>
-            <a href="https://www.linkedin.com/in/gabriel-marques-correia-077949232/" target="_blank"><img src="Gabriel.svg"></a>
-            <a href="https://www.linkedin.com/in/gustavo-amorim-silva/" target="_blank"><img src="Gustavo.svg"></a>
+            <a href="https://www.linkedin.com/in/daniele-ferreira-simões-44342b233/" target="_blank" width="200px"><img src="Daniele.svg" height="180"></a>
+            <a href="https://www.linkedin.com/in/ellensteixeira/" target="_blank" width="200px"><img src="Ellen.svg" height="180"></a>
+            <a href="https://www.linkedin.com/in/gabriel-marques-correia-077949232/" target="_blank" width="200px"><img src="Gabriel.svg" height="180"></a>
+            <a href="https://www.linkedin.com/in/gustavo-amorim-silva/" target="_blank" width="200px"><img src="Gustavo.svg" height="180"></a>
         </div>
     </div>
+    <br>
     <!--Linha 2-->
     <div>
         <div align="center">
-            <a href="https://www.linkedin.com/in/jonathanfcon/" target="_blank"><img src="Jonathan.svg" alt"Foto do integrante Jonathan"></a>
-            <a href="https://www.linkedin.com/in/leonardo-vinícius25/" target="_blank"><img src="Leonardo.svg"></a>
-            <a href="https://www.linkedin.com/in/thiago-antenor/" target="_blank"><img src="Thiago.svg"></a>
+            <a href="https://www.linkedin.com/in/jonathanfcon/" target="_blank" width="200px"><img src="Jonathan.svg" alt"Foto do integrante Jonathan" height="180"></a>
+            <a href="https://www.linkedin.com/in/leonardo-vinícius25/" target="_blank" width="200px"><img src="Leonardo.svg" height="180"></a>
+            <a href="https://www.linkedin.com/in/thiago-antenor/" target="_blank" width="200px"><img src="Thiago.svg" height="180"></a>
         </div>
     </div>
 </div>
