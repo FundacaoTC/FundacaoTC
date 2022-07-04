@@ -36,39 +36,22 @@
 
 <!--Nossa equipe -->
 <div>
-    <!--Linha 1-->
     <div>
-        <h2> :woman_technologist: :man_technologist: Sobre Nós </h2>
-        <div>
-            <img src="http://">
-            <a>Danielle Ferreira</a>
-        </div>
-        <div>
-            <img src="http://">
-            <a>Ellen da Silva</a>
-        </div>
-        <div>
-            <img src="http://">
-            <a>Gabriel Marques</a>
-        </div>
-        <div>
-            <img src="http://">
-            <a>Gustavo Amorim</a>
+        <h2> :woman_technologist: :man_technologist: Nossa equipe </h2>
+        <!--Linha 1-->
+        <div align="center">
+            <a href="https://www.linkedin.com/in/daniele-ferreira-simões-44342b233/" target="_blank"><img src="Daniele.svg"></a>
+            <a href="https://www.linkedin.com/in/ellensteixeira/" target="_blank"><img src="Ellen.svg"></a>
+            <a href="https://www.linkedin.com/in/gabriel-marques-correia-077949232/" target="_blank"><img src="Gabriel.svg"></a>
+            <a href="https://www.linkedin.com/in/gustavo-amorim-silva/" target="_blank"><img src="Gustavo.svg"></a>
         </div>
     </div>
-        <!--Linha 2-->
+    <!--Linha 2-->
     <div>
-        <div>
-            <img src="http://">
-            <a>Jonathan Ferreira</a>
-        </div>
-        <div>
-            <img src="http://">
-            <a>Leonardo Vinícius</a>
-        </div>
-        <div>
-            <img src="http://">
-            <a>Thiago Silva</a>
+        <div align="center">
+            <a href="https://www.linkedin.com/in/jonathanfcon/" target="_blank"><img src="Jonathan.svg" alt"Foto do integrante Jonathan"></a>
+            <a href="https://www.linkedin.com/in/leonardo-vinícius25/" target="_blank"><img src="Leonardo.svg"></a>
+            <a href="https://www.linkedin.com/in/thiago-antenor/" target="_blank"><img src="Thiago.svg"></a>
         </div>
     </div>
 </div>
